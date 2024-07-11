@@ -1,3 +1,8 @@
+
+                                                          Aktivierungslizenz für ALLE!!!
+
+                                                               AW4PBOX2BNDVFB3D
+
 Download findet ihr unter Releases
 
 
