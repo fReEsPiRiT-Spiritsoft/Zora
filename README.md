@@ -69,13 +69,13 @@ Es wird Wöchentlich mehr, und auch du darfst Ideen und vorschläge mit ein brin
     - Beispiel: "Habe ich was auf WhatsApp"
 16. **Lese die WhatsApp von <Kontakt>**
     - Liest die Nachrichten von einem bestimmten Kontakt auf WhatsApp vor.
-    - Beispiel: "Lese die WhatsApp von Memo"
+    - Beispiel: "Lese die WhatsApp von Klaus"
 17. **Antworte <Kontakt>**
     - Ermöglicht das Verfassen und Senden einer Nachricht an einen WhatsApp-Kontakt.
-    - Beispiel: "Antworte Memo"
+    - Beispiel: "Antworte Klaus"
 18. **Sende eine Sprachnachricht an <Kontakt>**
     - Sendet eine Sprachnachricht an einen WhatsApp-Kontakt.
-    - Beispiel: "Sende eine Sprachnachricht an Memo"
+    - Beispiel: "Sende eine Sprachnachricht an Klaus"
 19. **Debug**
     - Startet das Debug-Protokoll und startet den Code neu, wenn Zora mal nicht mehr zuhört (Spracheingabe button drücken und Debug sagen).
     - Beispiel: "Debug"
