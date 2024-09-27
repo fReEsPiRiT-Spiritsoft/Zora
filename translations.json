@@ -1,0 +1,366 @@
+{
+    "message_0": {
+        "de": "Welche Präferenz möchtest du ändern? (name, language, voice, notifications)",
+        "en": "Which preference would you like to change? (name, language, voice, notifications)"
+    },
+    "message_1": {
+        "de": "Was soll der neue Wert für {setting} sein?",
+        "en": "What should the new value for {setting} be?"
+    },
+    "message_2": {
+        "de": "Diese Sprache ist nicht verfügbar. Standard wird verwendet.",
+        "en": "This language is not available. Default will be used."
+    },
+    "message_3": {
+        "de": "{setting} wurde zu {new_value} geändert.",
+        "en": "{setting} has been changed to {new_value}."
+    },
+    "message_4": {
+        "de": "Diese Einstellung existiert nicht.",
+        "en": "This setting does not exist."
+    },
+    "message_5": {
+        "de": "message_6",
+        "en": "message_6"
+    },
+    "message_6": {
+        "de": "Herzlichen Glückwunsch zum Geburtstag, {names_joined}!",
+        "en": "Hello {names_joined}, how are you today?"
+    },
+    "message_7": {
+        "de": "Hallo {names_joined}, wie geht es euch heute?",
+        "en": "Hello, {names_joined} how are you today!"
+    },
+    "message_8": {
+        "de": "Hallo {names[0]}, wie geht es dir heute?",
+        "en": "Hello {names[0]}, how are you today?"
+    },
+    "message_9": {
+        "de": "Entschuldigung, ich habe das nicht verstanden.",
+        "en": "Sorry, I didn't understand that."
+    },
+    "message_10": {
+        "de": "Entschuldigung, der Dienst ist nicht verfügbar.",
+        "en": "Sorry, the service is not available."
+    },
+    "message_11": {
+        "de": "{result}",
+        "en": "{result}"
+    },
+    "message_12": {
+        "de": "Lautstärke auf {volume}% eingestellt.",
+        "en": "Volume set to {volume} %."
+    },
+    "message_13": {
+        "de": "Video abgespielt oder pausiert.",
+        "en": "Video played or paused."
+    },
+    "message_14": {
+        "de": "Video um {seconds[0]} Sekunden vorgespult.",
+        "en": "Video fast-forwarded by {seconds[0]} seconds."
+    },
+    "message_15": {
+        "de": "Video um {seconds[0]} Sekunden zurückgespult.",
+        "en": "Video rewound by {seconds[0]} seconds."
+    },
+    "message_16": {
+        "de": "Video um {seconds[0]} oktaven lauter gemacht.",
+        "en": "Video increased by {seconds[0]} octaves."
+    },
+    "message_17": {
+        "de": "Video um {seconds[0]} oktaven leiser gemacht.",
+        "en": "Video decreased by {seconds[0]} octaves."
+    },
+    "message_18": {
+        "de": "Video im Vollbildmodus.",
+        "en": "Video in full screen mode."
+    },
+    "message_19": {
+        "de": "Vollbildmodus des Videos beendet.",
+        "en": "Full screen mode of the video ended."
+    },
+    "message_20": {
+        "de": "{program_name} in den Vordergrund geholt.",
+        "en": "{program_name} brought to the front."
+    },
+    "message_21": {
+        "de": "Programm {program_name} nicht gefunden.",
+        "en": "Program {program_name} not found."
+    },
+    "message_22": {
+        "de": "Ich öffne {app}.",
+        "en": "I am opening {app}."
+    },
+    "message_23": {
+        "de": "Ich spiele {song}.",
+        "en": "I am playing {song}."
+    },
+    "message_24": {
+        "de": "Ich suche nach {query}.",
+        "en": "I am searching for {query}."
+    },
+    "message_25": {
+        "de": "{first_result}",
+        "en": "{first_result}"
+    },
+    "message_26": {
+        "de": "{news}",
+        "en": "{news}"
+    },
+    "message_27": {
+        "de": "Bitte gib mir den Ort an.",
+        "en": "Please tell me the location."
+    },
+    "message_28": {
+        "de": "{weather_report}",
+        "en": "{weather_report}"
+    },
+    "message_29": {
+        "de": "Entschuldigung, ich konnte die Lautstärke nicht verstehen.",
+        "en": "Sorry, I could not understand the volume."
+    },
+    "message_30": {
+        "de": "Was ist die Erinnerung?",
+        "en": "What is the reminder?"
+    },
+    "message_31": {
+        "de": "An welchem Tag?",
+        "en": "On which day?"
+    },
+    "message_32": {
+        "de": "An welchem Monat?",
+        "en": "In which month?"
+    },
+    "message_33": {
+        "de": "An welchem Jahr?",
+        "en": "In which year?"
+    },
+    "message_34": {
+        "de": "Zu welcher Uhrzeit?",
+        "en": "At what time?"
+    },
+    "message_35": {
+        "de": "Erinnerung gesetzt: {reminder} am {day}.{month}.{year} um {time}.",
+        "en": "Reminder set: {reminder} on {day}.{month}.{year} at {time}."
+    },
+    "message_36": {
+        "de": "{response}",
+        "en": "{response}"
+    },
+    "message_37": {
+        "de": "Das Nootprotokoll wurde eingeleitet, der Code wird neu gestartet, einen Moment.",
+        "en": "The Noot protocol has been initiated, the code will restart, one moment."
+    },
+    "message_38": {
+        "de": "Welchen Text wollen Sie {contact_name} senden?",
+        "en": "What text would you like to send to {contact_name}?"
+    },
+    "message_39": {
+        "de": "Soll ich eine Sprachnachricht an {contact_name} senden?",
+        "en": "Should I send a voice message to {contact_name}?"
+    },
+    "message_40": {
+        "de": "Okay, keine Sprachnachricht gesendet.",
+        "en": "Okay, no voice message sent."
+    },
+    "message_41": {
+        "de": "Programm wird beendet.",
+        "en": "Program is shutting down."
+    },
+    "message_42": {
+        "de": "{response}",
+        "en": "{response}"
+    },
+    "message_43": {
+        "de": "Ich suche nach Geräten.",
+        "en": "I am searching for devices."
+    },
+    "message_44": {
+        "de": "Keine Bluetooth-Adapter gefunden.",
+        "en": "No Bluetooth adapters found."
+    },
+    "message_45": {
+        "de": "Keine Geräte gefunden.",
+        "en": "No devices found."
+    },
+    "message_46": {
+        "de": "{i + 1}: {peripheral.identifier()}",
+        "en": "{i + 1}: {peripheral.identifier()}"
+    },
+    "message_47": {
+        "de": "Ungültige Nummer. Bitte erneut versuchen.",
+        "en": "Invalid number. Please try again."
+    },
+    "message_48": {
+        "de": "Gerät {device_name} gespeichert.",
+        "en": "Device {device_name} saved."
+    },
+    "message_49": {
+        "de": "Ein allgemeiner Fehler ist beim Suchen nach Geräten aufgetreten.",
+        "en": "A general error occurred while searching for devices."
+    },
+    "message_50": {
+        "de": "Gerät erfolgreich verbunden!",
+        "en": "Device successfully connected!"
+    },
+    "message_51": {
+        "de": "Gerätverbindung fehlgeschlagen!",
+        "en": "Device connection failed!"
+    },
+    "message_52": {
+        "de": "Das gespeicherte Gerät ist nicht verfügbar.",
+        "en": "The saved device is not available."
+    },
+    "message_53": {
+        "de": "Kein gespeichertes Gerät mit diesem Namen gefunden.",
+        "en": "No saved device found with this name."
+    },
+    "message_54": {
+        "de": "Ja?",
+        "en": "Yes?"
+    },
+    "message_55": {
+        "de": "Verstanden, der Computer wird in {int(time_amount)} {unit_name} heruntergefahren.",
+        "en": "Understood, the computer will shut down in {int(time_amount)} {unit_name}."
+    },
+    "message_56": {
+        "de": "Entschuldigung, ich habe die Zeitangabe nicht verstanden.",
+        "en": "Sorry, I did not understand the time specification."
+    },
+    "message_57": {
+        "de": "Selbstzerstörung eingeleitet..... Explosion in",
+        "en": "Self-destruction initiated..... Explosion in"
+    },
+    "message_58": {
+        "de": "3 ",
+        "en": "3 "
+    },
+    "message_59": {
+        "de": "2 ",
+        "en": "2 "
+    },
+    "message_60": {
+        "de": "1 ",
+        "en": "1 "
+    },
+    "message_61": {
+        "de": "kaaboooooom ",
+        "en": "kaaboooooom "
+    },
+    "message_62": {
+        "de": "Es ist {parts[0]}.{parts[1]}.{parts[2]}. um {parts[3]}. Du musst: {reminder}",
+        "en": "It is {parts[0]}.{parts[1]}.{parts[2]}. at {parts[3]}. You need to: {reminder}"
+    },
+    "message_63": {
+        "de": "Sie müssen zuerst WhatsApp verbinden.",
+        "en": "You need to connect WhatsApp first."
+    },
+    "message_64": {
+        "de": "Ja, Sie haben ungelesene Nachrichten von: {', '.join(unread_contacts)}",
+        "en": "Yes, you have unread messages from: {', '.join(unread_contacts)}"
+    },
+    "message_65": {
+        "de": "Sie haben keine neuen Nachrichten.",
+        "en": "You have no new messages."
+    },
+    "message_66": {
+        "de": "Fehler beim Überprüfen der Nachrichten.",
+        "en": "Error checking messages."
+    },
+    "message_67": {
+        "de": "Sie müssen zuerst WhatsApp verbinden.",
+        "en": "You need to connect WhatsApp first."
+    },
+    "message_68": {
+        "de": "{message.text.strip()}",
+        "en": "{message.text.strip()}"
+    },
+    "message_69": {
+        "de": "Keine ungelesenen Nachrichten im Chat mit {best_match_contact} gefunden.",
+        "en": "No unread messages found in chat with {best_match_contact}."
+    },
+    "message_70": {
+        "de": "Kein passender Kontakt zu '{contact_name}' gefunden.",
+        "en": "No matching contact found for '{contact_name}'."
+    },
+    "message_71": {
+        "de": "Fehler beim Lesen der Nachrichten von {contact_name}",
+        "en": "Error reading messages from {contact_name}."
+    },
+    "message_72": {
+        "de": "Sie müssen zuerst WhatsApp verbinden.",
+        "en": "You need to connect WhatsApp first."
+    },
+    "message_73": {
+        "de": "Nachricht an {contact_name} gesendet.",
+        "en": "Message sent to {contact_name}."
+    },
+    "message_74": {
+        "de": "Fehler beim Senden der Nachricht an {contact_name}",
+        "en": "Error sending message to {contact_name}."
+    },
+    "message_75": {
+        "de": "Sie müssen zuerst WhatsApp verbinden.",
+        "en": "You need to connect WhatsApp first."
+    },
+    "message_76": {
+        "de": "Sprachnachricht an {contact_name} gesendet.",
+        "en": "Voice message sent to {contact_name}."
+    },
+    "message_77": {
+        "de": "Aufnahme der Sprachnachricht abgebrochen oder nicht abgeschlossen.",
+        "en": "Voice message recording aborted or not completed."
+    },
+    "message_78": {
+        "de": "Aufnahme oder Senden der Sprachnachricht fehlgeschlagen.",
+        "en": "Recording or sending the voice message failed."
+    },
+    "message_79": {
+        "de": "Fehler beim Senden der Sprachnachricht an {contact_name}",
+        "en": "Error sending voice message to {contact_name}."
+    },
+    "message_80": {
+        "de": "Der Gaming PC wird heruntergefahren.",
+        "en": "The gaming PC is shutting down."
+    },
+    "message_81": {
+        "de": "Der API- Schlüssel stimmt nicht.",
+        "en": "The API key does not match."
+    },
+    "message_82": {
+        "de": "Keine Kommunikation mit dem Server: {e}",
+        "en": "No communication with the server: {e}"
+    },
+    "message_83": {
+        "de": "Smart Home Coming Soon",
+        "en": "Smart Home Coming Soon"
+    },
+    "message_84": {
+        "de": "Einstellungen wurden gespeichert.",
+        "en": "Settings have been saved."
+    },
+    "message_85": {
+        "de": "Text wurde erfolgreich gesendet.",
+        "en": "Text was sent successfully."
+    },
+    "message_86": {
+        "de": "Fehler beim Senden des Textes.",
+        "en": "Error sending the text."
+    },
+    "message_87": {
+        "de": "{message}",
+        "en": "{message}"
+    },
+    "message_88": {
+        "de": "Update gestartet, einen Moment, das Programm könnte sich aufhängen.",
+        "en": "Update started, one moment, the program may hang."
+    },
+    "message_89": {
+        "de": "Ihre Software ist auf dem neuesten Stand.  {current_version}",
+        "en": "Your software is up to date. {current_version}"
+    },
+    "message_90": {
+        "de": "Termin hinzugefügt: {appointment} am {date} um {time}.",
+        "en": "Appointment added: {appointment} on {date} at {time}."
+    }
+}
