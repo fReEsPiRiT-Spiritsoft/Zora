@@ -10,7 +10,8 @@ Download under Releases
 
 
 
-English Translate coming soon
+English Translate coming soon 
+(There is a translation file, which can be updated with additional languages, thank you very much)
 
 Language Controlled Computer Intelligence (ZORA)
 Controll your PC only with your voice
